@@ -1,0 +1,17 @@
+button {
+    background-color: rgb(238, 7, 61);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: rgb(233, 3, 42);
+  }
+  
+  #resposta {
+    font-weight: bold;
+  }
+  
